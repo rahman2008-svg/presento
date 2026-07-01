@@ -1,0 +1,6 @@
+{
+  "name": "Presento",
+  "description": "A full-featured presentation and slideshow creation application, with rich editing tools, shapes, custom templates, animations, slide transitions, and local storage integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
